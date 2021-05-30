@@ -1,0 +1,11 @@
+#digits{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.digit {
+    background-color: white;
+    border: 1px solid #921029;
+    width: 33.33%;
+    height: 69.4px;
+}

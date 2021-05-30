@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+}
+
+
+
+.main {
+
+  background-color: rgb(214, 155, 27);
+  border: 1px solid #921029;
+  width:80%;
+  height: 250px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30 px;
+} 
+
+
+
+
+
+
+.forecastRectangle {
+  color: #545454;
+  font-size: 21px;
+  background-color: rgb(236, 233, 229);
+  border: 1px solid #921029;
+  width: 100px;
+  height: 160px;
+  padding: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  border-radius: 30 px;
+}
+
+
+
+.sunImageDef{ 
+  width: 75px;
+  height: 75px;
+  margin: 3px;
+  padding: 10px;
+  border-radius: 18%;
+  background: none;
+}
+
+#SunImage {
+  
+  background:rgb(89, 89, 194) url("./img/sun.JPG") no-repeat center center;
+  background-size: contain;
+        
+  }
+
+/*                        
+  #PersonalImage {
+               
+    background:gray url("./../img/ofer5.jpg") no-repeat center center;
+    background-size: contain;
+    display: none;
+                  
+       } */

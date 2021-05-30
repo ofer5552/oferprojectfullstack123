@@ -1,0 +1,11 @@
+#display {
+    background-color: #433437;
+    color: white;
+    border:none;
+    height: 40px;
+    line-height: 40px;
+    font-size: 26px;
+    text-indent: 10px;
+    width: 98.5%;
+    height: 20%;
+}

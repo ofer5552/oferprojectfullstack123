@@ -1,0 +1,13 @@
+#actions{
+    
+    display: flex;
+    flex-direction: column;
+}
+.action{
+    height: 50px;
+    background-color: #F2274F;
+    color: white;
+    font-size:21px;
+    border: none;
+    border: 1px solid #921029;
+}
